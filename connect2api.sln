@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "connect2api", "connect2api.csproj", "{0461F2B5-B59D-48BD-B63E-8F8EA3CE9053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0461F2B5-B59D-48BD-B63E-8F8EA3CE9053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0461F2B5-B59D-48BD-B63E-8F8EA3CE9053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0461F2B5-B59D-48BD-B63E-8F8EA3CE9053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0461F2B5-B59D-48BD-B63E-8F8EA3CE9053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7691E45A-3986-4E65-A2F8-C890B5F23098}
+	EndGlobalSection
+EndGlobal
